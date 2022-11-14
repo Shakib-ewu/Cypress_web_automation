@@ -1,0 +1,11 @@
+Select condition “Contains” and value “”
+Select condition “Starts with” and value “”
+Select condition “Ends with” and value “”
+Select condition “Exactly matches” and value “”
+
+Select condition “Greater than or equal to” and value “”
+Select condition “Equal” and value “”
+Select condition “Greater than” and value “”
+Select condition “Less than” and value “”
+Select condition “Less than equal” and value “”
+Select condition “Not equal to” and value “”
